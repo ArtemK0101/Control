@@ -1,0 +1,189 @@
+
+.first{
+    height: 890px;
+    width: 1600px;
+    background-color: blue;
+    display: grid;
+    grid-template-columns: repeat(12, 1fr);
+    position: relative;
+}
+
+
+.header{
+    height: 100px;
+    width: 1600px;
+    
+    position: absolute;
+
+}
+.layer25{
+
+}
+.pex{
+    position: absolute;
+    width: 44px;
+    height: 20px;
+    margin-top: 42px;
+    margin-left: 210px;
+}
+.pwb{
+    margin-top: 42px;
+    margin-left: 260px;
+    color: rgb(180, 180, 180);
+    position: absolute;
+    
+}
+.spisok{
+    position: absolute;
+    text-decoration: none;
+    color:rgb(180, 180, 180);
+    display: inline-flex;
+    margin-left: 700px;
+    margin-bottom: 600px;
+    width: 1600px;
+}
+.search{
+    margin-left: 50px;
+    margin-top: 15px;
+    
+    height: 40px;
+    width: 215px;
+    text-align: center;
+    border-color: white;
+    border: 40px;
+    border-radius: 60px;
+    
+}
+.S{
+    position: absolute;
+    margin-left: 1525px;
+    margin-top: 45px;
+
+}
+.D{
+    position: absolute;
+    width: 500px;
+    color:rgb(220, 219, 219);
+    margin-top: 330px;
+    margin-left: 250px;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 300%;
+}
+.GST{
+    margin-top: 555px;
+    margin-left: 430px;
+    text-align: center; 
+    border-radius: 60px; 
+    height:65px; width: 280px; 
+    position: absolute;
+    border: white; 
+    background-color: blueviolet;
+    border: 1px solid;
+    border-color: rgb(115, 113, 113) rgb(115, 113, 113) rgb(91, 86, 86) rgb(91, 86, 86);
+
+}
+.GST:hover{
+    cursor: pointer;
+    opacity: 90%;
+    text-shadow: 3px;
+}
+.L1{
+    position: absolute;
+    margin-top: 635px;
+    margin-left: 445px;
+    color: rgb(212, 208, 208);
+}
+.grey{
+    height: 510px;
+    width: 1600px;
+    background-color: rgb(67, 73, 97);
+    font-size: 50%;
+    color: rgb(199, 196, 196);
+}
+
+    
+.pink{
+    
+    height: 540px;
+    width: 1600px;
+    display: block;
+
+    background-color: palevioletred;
+    
+}
+.GST1{
+    position: absolute;
+    border: white; 
+    color: rgb(239, 48, 118);
+    border-radius: 60px; 
+    width: 500px;
+    margin-left: 540px; 
+    font-size: 130%; 
+    margin-top: 300px;
+    height: 80px;
+}
+.GST1:hover{
+    cursor: pointer;
+    opacity: 90%;
+    text-shadow: 3px;
+}
+.white{
+    
+    height: 500px;
+    width: 1600px;
+    background-color:whitesmoke
+   
+}
+.pen{
+    margin-top: 24px;
+}
+.stav{
+    height: 540px;
+    width: 1600px;
+    background-color: blueviolet;
+}
+.stone{
+    position: absolute;
+    height: 540px;
+    width: 1600px;
+    
+    
+   
+}
+.violet{
+    position: absolute;
+    margin-top: 100px;
+    height: 450px;
+    width: 1600px;
+    background-color: rgb(87, 16, 105);
+    opacity: 80%;
+
+    
+}
+.food{
+    height: 666px;
+    width: 1600px;
+    background-color: green;
+}
+.white2{
+    position: relative;
+    height: 515px;
+    width: 1600px;
+    background-color: whitesmoke;
+}
+.clock{
+    width: 670px;
+    margin-top: 4px;
+    margin-left: 930px;
+}
+.red{
+    height: 460px;
+    width: 1600px;
+    background-color: rgb(249, 87, 108);
+}
+.footer{
+    height: 370px;
+    width: 1600px;
+    background-color: rgb(67, 73, 97);
+}
+
