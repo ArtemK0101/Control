@@ -94,6 +94,7 @@
     color: rgb(212, 208, 208);
 }
 .grey{
+    margin: 0 auto;
     height: 510px;
     width: 1600px;
     background-color: rgb(67, 73, 97);
@@ -107,7 +108,7 @@
     height: 540px;
     width: 1600px;
     display: block;
-
+    margin: 0 auto;
     background-color: palevioletred;
     
 }
@@ -128,7 +129,7 @@
     text-shadow: 3px;
 }
 .white{
-    
+    margin: 0 auto;
     height: 500px;
     width: 1600px;
     background-color:whitesmoke
@@ -138,11 +139,13 @@
     margin-top: 24px;
 }
 .stav{
+    margin: 0 auto;
     height: 540px;
     width: 1600px;
     background-color: blueviolet;
 }
 .stone{
+    
     position: absolute;
     height: 540px;
     width: 1600px;
@@ -151,6 +154,7 @@
    
 }
 .violet{
+    
     position: absolute;
     margin-top: 100px;
     height: 450px;
@@ -161,11 +165,13 @@
     
 }
 .food{
+    margin: 0 auto;
     height: 666px;
     width: 1600px;
     background-color: green;
 }
 .white2{
+    margin: 0 auto;
     position: relative;
     height: 515px;
     width: 1600px;
@@ -177,11 +183,13 @@
     margin-left: 930px;
 }
 .red{
+    margin: 0 auto
     height: 460px;
     width: 1600px;
     background-color: rgb(249, 87, 108);
 }
 .footer{
+    margin: 0 auto;
     height: 370px;
     width: 1600px;
     background-color: rgb(67, 73, 97);
